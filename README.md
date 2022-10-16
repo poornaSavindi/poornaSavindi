@@ -29,9 +29,7 @@
 <p align="center">
 
 [![poornaSavindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=poornaSavindi&theme=vision-friendly-dark)](https://github.com/poornaSavindi/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunDhananjaya&layout=compact&theme=vision-friendly-dark)](https://github.com/SupunDhananjaya/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poornaSavindi&layout=compact&theme=vision-friendly-dark)](https://github.com/poornaSavindi/github-readme-stats)
 </p>
 
 ---
